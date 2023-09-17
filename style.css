@@ -1,11 +1,10 @@
-* {
+html {
     background: pink;
+    font-family: 'Roboto', 'Times New Roman';
 }
 
-.header {
+.header, .secondary-header, .article, .secondary-article {
     text-align: center;
+    font-size: 2em;
 }
 
-.article {
-    text-align: center;
-}
