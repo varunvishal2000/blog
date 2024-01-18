@@ -1,10 +1,4 @@
 html {
     background: pink;
-    font-family: 'Roboto', 'Times New Roman';
+    font-family: 'Times New Roman';
 }
-
-.header, .secondary-header, .article, .secondary-article {
-    text-align: center;
-    font-size: 2em;
-}
-
