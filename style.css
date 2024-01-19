@@ -2,3 +2,19 @@ html {
     background: pink;
     font-family: 'Times New Roman';
 }
+
+.post {
+    
+}
+
+.post h1 {
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 50px;
+}
+
+.content {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 1.5rem;
+}
